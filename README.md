@@ -24,5 +24,7 @@
 - ExtraTrees, Random Forest, XGBoost 순으로 성능이 가장 좋았음
 
 ## 📂 프로젝트 발표 자료  
-- 📑 [PPT 보기 (Google Drive)](https://drive.google.com/file/d/1I-yRP-GrMNU66RD5ZU8WUvM5ks687pke/preview)
+- 📑 [PPT 보기 (Google Drive)](https://drive.google.com/file/d/1QkgNXItPlVNNKyIhgYH_FRTk18werLa8/preview)
+
+
 
