@@ -20,7 +20,7 @@
    - Random Forest 모델에서 제공하는 Feature Importance 반영
 
 ## 모델링
-- timestemp의 특징만 보고 자칫하면 RNN 모델이 성능이 좋을 것 같지만, 이외에 공격의 비선형적인 관계들을 포함하기에 트리 모델가 가장 적합하며, 성능이 높았음
+- timestamp의 특징만 보고 자칫하면 RNN 모델이 성능이 좋을 것 같지만, 이외에 공격의 비선형적인 관계들을 포함하기에 트리 모델가 가장 적합하며, 성능이 높았음
 - ExtraTrees, Random Forest, XGBoost 순으로 성능이 가장 좋았음
 
 ## 📂 프로젝트 발표 자료  
